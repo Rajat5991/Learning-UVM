@@ -8,5 +8,4 @@ The development process involved:
 Successfully developing and executing each component individually.
 Gradually integrating each component into the overall testbench architecture.
 Creating sequences and sequence items to generate stimulus for the DUT (Device Under Test).
-Incorporating functional coverage and assertions to measure verification progress and ensure thorough testing.
-Implementing virtual interfaces to facilitate seamless communication between the testbench components and the DUT.
+Incorporating functional coverage and scoreboard checks. Implementing virtual interfaces to facilitate seamless communication between the testbench components and the DUT.
